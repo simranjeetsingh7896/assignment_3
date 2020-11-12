@@ -1,0 +1,47 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+h1,h2{
+    color:red;
+}
+a:hover{
+    color:green;
+}
+
+.navlink {
+    text-align: right;
+    margin-top: 30px;
+    float: right;
+}
+
+#containerlist{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+
+#containershow {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 80px;
+    text-align:center;
+}
+
+.listitem {
+    margin: 10px 0;
+    text-align :center;
+}
